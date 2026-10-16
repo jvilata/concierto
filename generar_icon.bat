@@ -1,0 +1,1 @@
+icongenie generate -i ./src/assets/digiticket300.png
